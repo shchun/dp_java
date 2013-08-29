@@ -11,8 +11,9 @@ public class Manager {
 	}
 
 	public Product create(String protoname) {
-		Product p = (Product) showcase.get(protoname);
-		return p.createClone();
+	//	Product p = (Product) showcase.get(protoname);
+	//	return p.createClone();
+		return (Product) showcase.get(protoname);
 	}
 
 }
