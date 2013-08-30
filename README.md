@@ -1,5 +1,8 @@
 dp_java
 =======
 
-studying designpattern in java
-access from company and home
+<ul>
+	<li>studying designpattern in java</li>
+	<li>access from company and home</li>
+<ul>
+
